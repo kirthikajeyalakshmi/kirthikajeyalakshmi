@@ -2,8 +2,6 @@
 
 ### 🎓 Computer science student from India   💻 Java • DSA • Problem Solving   📊 Exploring machine learning  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirthikajeyalakshmi" alt="kirthikajeyalakshmi" /></a> </p>
-
 - 🔭 I'm currently working on **my portfolio**
 
 - 🌱 I'm currently learning **Machine learning, LLM models, reactjs**
