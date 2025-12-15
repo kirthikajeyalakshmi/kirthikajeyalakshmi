@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirthikajeyalakshmi&" alt="kirthikajeyalakshmi" /></p>
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/YOUR_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=kirthikajeyalakshmi&style=flat)
 
 
 
