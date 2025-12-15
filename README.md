@@ -25,7 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirthikajeyalakshmi&" alt="kirthikajeyalakshmi" /></p>
 
-![Profile views](https://komarev.com/ghpvc/?username=kirthikajeyalakshmi&style=flat)
 
 
 
